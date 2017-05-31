@@ -2,7 +2,7 @@ Toggl integratie
 ================
 
 `Toggl <https://toggl.com/>`_ is een gratis tijdsmeting (time-tracking) tool. Je kan hiermee per project, per taak, bijhouden hoe lang je aan iets werkt.
-De SOS-tool heeft de mogelijkheid om een aantal zaken te automatiseren zodat je makkelijk per opdracht de gespendeerde tijd kan bijouden.
+De SOS-tool heeft de mogelijkheid om een aantal zaken te automatiseren zodat je makkelijk per opdracht de gespendeerde tijd kan bijhouden.
 
 ============
 Configuratie
